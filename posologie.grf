@@ -1,0 +1,37 @@
+#Unigraph
+SIZE 1318 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+17
+"<E>" 18 301 1 8 
+"" 1208 163 0 
+"<NB>" 476 417 2 7 5 
+"mg+µ+µg+ml+cps+goutte+g+sachet+unités+cp+inj SC+par jour+l+litres+flacon+gouttes+goutte par oeil" 387 190 3 5 2 4 
+"<TOKEN>" 390 485 2 2 5 
+"jour+soir+gélul+cp+sachét+matin et midi+comprimé le matin+comprimé par jour+jour si douleurs+cp le matin+cp le soir+matin et soir+matin midi et soir+en sous cutané le matin+goutte+SC+par jour+cp par jour+jour le midi+injection+le soir+le matin+le midi+24h+1cp le soir+1cp matin et midi+1cp le matin+1gel  le soir+sachet le matin+1 par jour+U le soir+comprimé par jour le soir+sachet par jour le soir+comprimés+flacons+Unités par jour le soir+au coucher" 573 326 5 1 7 6 10 16 
+"jour+le soir+le midi+le matin+à midi+goutte+au coucher+jour si douleurs" 1064 385 3 1 7 6 
+"<TOKEN>" 776 464 3 6 9 16 
+"<N+subst>" 65 262 3 12 13 11 
+"<NB>" 962 488 1 6 
+"et+-+_" 975 74 1 2 
+"<TOKEN>" 255 251 2 3 2 
+"<NB>" 178 206 2 3 11 
+"<NB>" 110 365 1 14 
+".+," 200 371 1 15 
+"<NB>" 260 353 1 11 
+"<PNC>" 1054 164 1 1 
